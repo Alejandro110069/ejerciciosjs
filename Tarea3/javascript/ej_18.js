@@ -1,4 +1,4 @@
-console.log("===== Ejercicio 18 =====");
+console.log(" Ejercicio 18 ");
 
 function max(arreglo) {
   let mayor = arreglo[0];
