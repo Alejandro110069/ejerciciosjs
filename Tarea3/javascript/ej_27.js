@@ -1,4 +1,4 @@
-console.log("===== Ejercicio 27 =====");
+console.log(" Ejercicio 27 ");
 
 function numerosAPalabras(arreglo) {
   let palabras = ["cero","uno","dos","tres","cuatro","cinco","seis","siete","ocho","nueve"];
