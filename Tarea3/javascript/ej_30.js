@@ -1,4 +1,4 @@
-console.log("===== Ejercicio 30 =====");
+console.log(" Ejercicio 30 ");
 
 function numAsteriscos(matriz) {
   let contador = 0;
