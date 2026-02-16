@@ -13,7 +13,7 @@ function bmi(peso, altura) {
   }
 }
 
-console.log(bmi(55, 1.7));   // "Normal"
-console.log(bmi(70, 1.6));   // "Sobrepeso"
-console.log(bmi(50, 1.8));  // "Bajo de peso"
-console.log(bmi(140, 1.8));  // "Obeso"
+// código de prueba
+console.log(bmi(65, 1.8)) // "Normal"
+console.log(bmi(72, 1.6)) // "Sobrepeso"
+console.log(bmi(52, 1.75)) // "Bajo de peso"
