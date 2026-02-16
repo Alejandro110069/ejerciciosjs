@@ -1,4 +1,4 @@
-console.log("===== Ejercicio 19 =====");
+console.log(" Ejercicio 19 ");
 
 function min(arreglo) {
   let menor = arreglo[0];
