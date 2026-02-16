@@ -1,4 +1,4 @@
-console.log("===== Ejercicio 26 =====");
+console.log(" Ejercicio 26 ");
 
 function imprimirMatriz(matriz) {
   for (let i = 0; i < matriz.length; i++) {
