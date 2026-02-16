@@ -9,3 +9,8 @@ function sumarRango(inicio, fin) {
 
   return suma;
 }
+
+// Pruebas
+console.log(sumarRango(0, 10)); // 55
+console.log(sumarRango(12, 14)); // 39
+console.log(sumarRango(5, 5)); // 5
